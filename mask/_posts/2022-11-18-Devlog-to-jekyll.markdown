@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "심우준의 Devlog"
+title:  "귀하신 분이 누추한 곳에..."
 date:   2022-11-19 05:05:36 +0900
 categories: jekyll update
 ---

@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "심우준의 Devlog"
+title:  "FIRST DISPLAY"
 date:   2022-11-17 23:38:36 +0900
 categories: jekyll update
 ---

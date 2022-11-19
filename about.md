@@ -4,7 +4,9 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+이름 - 심우준
+생일 - 10월 02일
+취미 - 걷기, 게임, OTT시청, 드론촬영
 
 ### More Information
 
@@ -12,4 +14,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[swj97@naver.com](mailto:email@domain.com)

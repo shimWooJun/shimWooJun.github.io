@@ -4,7 +4,7 @@ title: Portfolio
 permalink: /portfolio/
 ---
 
-### Sample Portfolio
+### 샘플 포트폴리오
 
 These are screencaps from Chungking Express
 

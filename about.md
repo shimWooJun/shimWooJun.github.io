@@ -15,4 +15,4 @@ A place to include any other types of information that you'd like to include abo
 
 ### Contact me
 
-[swj97@naver.com](mailto:email@domain.com)
+e-mail: swj97@naver.com

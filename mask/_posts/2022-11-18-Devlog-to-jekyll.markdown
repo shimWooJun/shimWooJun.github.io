@@ -7,5 +7,5 @@ categories: jekyll update
 <pre>
 ![마크다운태그의 종류](C:\Users\bitcamp\git\shimWooJun.github.io\assets\images\마크다운태그의종류.PNG)
 </pre>
-
+![마크다운태그의 종류](C:\Users\bitcamp\git\shimWooJun.github.io\assets\images\마크다운태그의종류.PNG)
 `YEAR-MONTH-DAY-title.MARKUP`

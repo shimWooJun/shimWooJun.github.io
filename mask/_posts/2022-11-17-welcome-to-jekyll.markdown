@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "FIRST DISPLAY"
+title:  "본문 예시"
 date:   2022-11-17 23:38:36 +0900
 categories: jekyll update
 ---

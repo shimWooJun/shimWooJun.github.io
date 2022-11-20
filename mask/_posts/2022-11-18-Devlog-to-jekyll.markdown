@@ -82,7 +82,7 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
   
 
 ![링크]({{site.baseurl}}/assets/images/링크2.PNG)  
-Click[here](https://shimwoojun.github.io/)  
+Click [here](https://shimwoojun.github.io/)  
 [심우준의 Devlog](https://shimwoojun.github.io/)
   
 

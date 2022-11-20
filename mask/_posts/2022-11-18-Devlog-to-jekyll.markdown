@@ -17,19 +17,19 @@ categories: jekyll update
 
 마크다운태그의 가장 많이 사용되는 종류들은 다음과 같다.
 
-![마크다운태그의 종류]({{site.baseurl}}/assets/images/md.PNG)
+![마크다운태그의 종류]({{site.baseurl}}/assets/images/md.PNG)  
   
 
 ![제목]({{site.baseurl}}/assets/images/제목.PNG)
 # 제목1
 ## 제목2
 ### 제목3
-#### 제목4
+#### 제목4  
   
 
 ![줄바꿈]({{site.baseurl}}/assets/images/줄바꿈.PNG)  
 띄어쓰기 2번  
-또는 <br/>
+또는 <br/>  
   
 
 ![수평선]({{site.baseurl}}/assets/images/수평선.PNG)  
@@ -45,13 +45,13 @@ ___
 _이탤릭_  
 ~~취소선~~  
 <u>밑줄</u>  
-ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do ~~strikethrough~~
+ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do ~~strikethrough~~  
   
 
 ![인용]({{site.baseurl}}/assets/images/인용문.PNG)  
 >인용문장
 >>중첩된 인용문
->>>중첩된 인용문 2
+>>>중첩된 인용문 2  
   
 
 ![리스트]({{site.baseurl}}/assets/images/목록.PNG)  
@@ -84,9 +84,9 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
 8. 순서가 필요한 목록
   
 
-![링크]({{site.baseurl}}/assets/images/링크2.PNG)  
+![링크]({{site.baseurl}}/assets/images/링크2.PNG)
 Click [here](https://shimwoojun.github.io/)  
-[심우준의 Devlog](https://shimwoojun.github.io/)
+[심우준의 Devlog](https://shimwoojun.github.io/)  
   
 
 ![이미지]({{site.baseurl}}/assets/images/이미지.PNG)  
@@ -97,6 +97,6 @@ Click [here](https://shimwoojun.github.io/)
 ```javascript
 const name = "심우준"
 const.log(name);
-```
+```  
 
 `YEAR-MONTH-DAY-title.MARKUP`

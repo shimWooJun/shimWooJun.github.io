@@ -49,9 +49,9 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
   
 
 ![인용]({{site.baseurl}}/assets/images/인용문.PNG)  
->인용문장
->>중첩된 인용문
->>>중첩된 인용문 2  
+> 인용문장
+>> 중첩된 인용문
+>>> 중첩된 인용문 2  
   
 
 ![리스트]({{site.baseurl}}/assets/images/목록.PNG)  
@@ -84,7 +84,7 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
 8. 순서가 필요한 목록
   
 
-![링크]({{site.baseurl}}/assets/images/링크2.PNG)
+![링크]({{site.baseurl}}/assets/images/링크2.PNG)  
 Click [here](https://shimwoojun.github.io/)  
 [심우준의 Devlog](https://shimwoojun.github.io/)  
   

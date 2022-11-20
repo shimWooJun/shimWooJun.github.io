@@ -90,7 +90,7 @@ Click [here](https://shimwoojun.github.io/)
 ![Bare-Metal]({{site.baseurl}}/assets/images/BM.PNG)
   
 
-![코드]({{site.baseurl}}/assets/images/코드.PNG)  
+![코드]({{site.baseurl}}/assets/images/코드1.PNG)  
 ```javascript
 const name = "심우준"
 const.log(name);

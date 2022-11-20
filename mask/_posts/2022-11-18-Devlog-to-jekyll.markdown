@@ -27,19 +27,19 @@ categories: jekyll update
 #### 제목4
   
 
-![줄바꿈]({{site.baseurl}}/assets/images/줄바꿈.PNG)
+![줄바꿈]({{site.baseurl}}/assets/images/줄바꿈.PNG)  
 띄어쓰기 2번  
 또는 <br/>
   
 
-![수평선]({{site.baseurl}}/assets/images/수평선.PNG)
+![수평선]({{site.baseurl}}/assets/images/수평선.PNG)  
 ---
 ***
 ___
 ***  
   
 
-![강조]({{site.baseurl}}/assets/images/글자강조.PNG)
+![강조]({{site.baseurl}}/assets/images/글자강조.PNG)  
 **굵은 글씨**
 *이텔릭*
 _이탤릭_
@@ -48,13 +48,13 @@ _이탤릭_
 ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do ~~strikethrough~~
   
 
-![인용]({{site.baseurl}}/assets/images/인용문.PNG)
+![인용]({{site.baseurl}}/assets/images/인용문.PNG)  
 > 인용문장
 >> 중첩된 인용문
 >>> 중첩된 인용문 2
   
 
-![리스트]({{site.baseurl}}/assets/images/목록.PNG)
+![리스트]({{site.baseurl}}/assets/images/목록.PNG)  
 - 순서가 필요하지 않은 목록
     - 순서가 필요하지 않은 목록
         - 순서가 필요하지 않은 목록
@@ -69,7 +69,7 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
         + 순서가 필요하지 않은 목록
   
 
-![리스트]({{site.baseurl}}/assets/images/목록1.PNG)
+![리스트]({{site.baseurl}}/assets/images/목록1.PNG)  
 1. 순서가 필요한 목록
     1. 순서가 필요한 목록
     1. 순서가 필요한 목록
@@ -81,24 +81,24 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
 8. 순서가 필요한 목록
   
 
-![링크]({{site.baseurl}}/assets/images/링크2.PNG)
-Click[here](https://shimwoojun.github.io/)
+![링크]({{site.baseurl}}/assets/images/링크2.PNG)  
+Click[here](https://shimwoojun.github.io/)  
 [심우준의 Devlog](https://shimwoojun.github.io/)
   
 
-![이미지]({{site.baseurl}}/assets/images/이미지.PNG)
+![이미지]({{site.baseurl}}/assets/images/이미지.PNG)  
 ![Bare-Metal]({{site.baseurl}}/assets/images/BM.PNG)
   
 
-![표]({{site.baseurl}}/assets/images/표.PNG)
+![표]({{site.baseurl}}/assets/images/표.PNG)  
 | Heade | value | Description |
 | --: | :-- | :--: |
 | 정렬 | --: | 우측정렬 |
 | 정렬 | :-- | 죄측정렬 |
 | 정렬 | :--: | 가운데정렬 |
   
-  
-![코드]({{site.baseurl}}/assets/images/코드.PNG)
+
+![코드]({{site.baseurl}}/assets/images/코드.PNG)  
 ```javascript
 const name = "심우준"
 const.log(name);

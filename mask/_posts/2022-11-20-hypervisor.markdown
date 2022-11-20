@@ -35,4 +35,4 @@ categories: jekyll update
 하이퍼바이저가 안전하더라도 기본 운영 체제의 모든 문제는 전체 시스템에 영향을 준다.  
 이 유형의 하이퍼바이저는 10일차에 사용했던 VirtualBox에 해당한다.  
 
-
+`YEAR-MONTH-DAY-title.MARKUP`

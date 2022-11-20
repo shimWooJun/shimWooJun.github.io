@@ -23,6 +23,7 @@ categories: jekyll update
 **하이퍼바이저에는 두가지 유형이 있다.**  
 
 ![Bare-Metal]({{site.baseurl}}/assets/images/BM.PNG)
+
 위에 유형은 Bare metal이며, 가상 시스템 또는 게스트 운영 체제 중 하나의 문제가  
 하드웨어에서 실행 중인 다른 게스트 운영 체제에 영향을 미치지 않는다.  
 다른 하이퍼바이저의 유형은 밑의 그림과 같다.

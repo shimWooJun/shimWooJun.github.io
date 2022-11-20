@@ -90,14 +90,6 @@ Click[here](https://shimwoojun.github.io/)
 ![Bare-Metal]({{site.baseurl}}/assets/images/BM.PNG)
   
 
-![표]({{site.baseurl}}/assets/images/표.PNG)  
-| Heade | value | Description |  
-| --: | :-- | :--: |  
-| 정렬 | --: | 우측정렬 |  
-| 정렬 | :-- | 죄측정렬 |  
-| 정렬 | :--: | 가운데정렬 |  
-  
-
 ![코드]({{site.baseurl}}/assets/images/코드.PNG)  
 ```javascript
 const name = "심우준"

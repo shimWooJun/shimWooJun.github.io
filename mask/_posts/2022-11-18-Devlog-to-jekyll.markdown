@@ -52,8 +52,6 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
 >인용문장  
 >>중첩된 인용문  
 >>>중첩된 인용문 2  
->>중첩된 인용문  
->인용문장  
   
 
 ![리스트]({{site.baseurl}}/assets/images/목록.PNG)  

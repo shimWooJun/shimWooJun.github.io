@@ -9,6 +9,8 @@ permalink: /about/
 취미 - 걷기, 게임, OTT시청, 드론촬영
 </pre>
 
+**나무를 베는데 한시간이 주어진다면, 도끼를 가는데 45분을 쓰겠다. - Abraham Lincoln**
+
 ### More Information
 
 A place to include any other types of information that you'd like to include about yourself.

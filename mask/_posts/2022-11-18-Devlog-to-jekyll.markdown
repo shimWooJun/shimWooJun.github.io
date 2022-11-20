@@ -18,23 +18,26 @@ categories: jekyll update
 마크다운태그의 가장 많이 사용되는 종류들은 다음과 같다.
 
 ![마크다운태그의 종류]({{site.baseurl}}/assets/images/md.PNG)
+  
 
 ![제목]({{site.baseurl}}/assets/images/제목.PNG)
 # 제목1
 ## 제목2
 ### 제목3
 #### 제목4
+  
 
 ![줄바꿈]({{site.baseurl}}/assets/images/줄바꿈.PNG)
-# 줄바꿈(Line Breaks)
 띄어쓰기 2번  
 또는 <br/>
+  
 
 ![수평선]({{site.baseurl}}/assets/images/수평선.PNG)
 ---
 ***
 ___
 ***  
+  
 
 ![강조]({{site.baseurl}}/assets/images/글자강조.PNG)
 **굵은 글씨**
@@ -43,11 +46,13 @@ _이탤릭_
 ~~취소선~~
 <u>밑줄</u>
 ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do ~~strikethrough~~
+  
 
 ![인용]({{site.baseurl}}/assets/images/인용문.PNG)
 > 인용문장
 >> 중첩된 인용문
 >>> 중첩된 인용문 2
+  
 
 ![리스트]({{site.baseurl}}/assets/images/목록.PNG)
 - 순서가 필요하지 않은 목록
@@ -62,6 +67,7 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
 - 순서가 필요하지 않은 목록
     * 순서가 필요하지 않은 목록
         + 순서가 필요하지 않은 목록
+  
 
 ![리스트]({{site.baseurl}}/assets/images/목록1.PNG)
 1. 순서가 필요한 목록
@@ -73,13 +79,16 @@ ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do 
     9. 순서가 필요한 목록
     3. 순서가 필요한 목록
 8. 순서가 필요한 목록
+  
 
 ![링크]({{site.baseurl}}/assets/images/링크2.PNG)
 Click[here](https://shimwoojun.github.io/)
 [심우준의 Devlog](https://shimwoojun.github.io/)
+  
 
 ![이미지]({{site.baseurl}}/assets/images/이미지.PNG)
 ![Bare-Metal]({{site.baseurl}}/assets/images/BM.PNG)
+  
 
 ![표]({{site.baseurl}}/assets/images/표.PNG)
 | Heade | value | Description |
@@ -87,7 +96,8 @@ Click[here](https://shimwoojun.github.io/)
 | 정렬 | --: | 우측정렬 |
 | 정렬 | :-- | 죄측정렬 |
 | 정렬 | :--: | 가운데정렬 |
-
+  
+  
 ![코드]({{site.baseurl}}/assets/images/코드.PNG)
 ```javascript
 const name = "심우준"

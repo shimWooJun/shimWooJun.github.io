@@ -41,10 +41,10 @@ ___
 
 ![강조]({{site.baseurl}}/assets/images/글자강조.PNG)  
 **굵은 글씨**
-*이텔릭*
-_이탤릭_
-~~취소선~~
-<u>밑줄</u>
+*이텔릭*  
+_이탤릭_  
+~~취소선~~  
+<u>밑줄</u>  
 ex) This is the **bold** text and this is the *italic* text and <u>let's</u> do ~~strikethrough~~
   
 
@@ -91,11 +91,11 @@ Click[here](https://shimwoojun.github.io/)
   
 
 ![표]({{site.baseurl}}/assets/images/표.PNG)  
-| Heade | value | Description |
-| --: | :-- | :--: |
-| 정렬 | --: | 우측정렬 |
-| 정렬 | :-- | 죄측정렬 |
-| 정렬 | :--: | 가운데정렬 |
+| Heade | value | Description |  
+| --: | :-- | :--: |  
+| 정렬 | --: | 우측정렬 |  
+| 정렬 | :-- | 죄측정렬 |  
+| 정렬 | :--: | 가운데정렬 |  
   
 
 ![코드]({{site.baseurl}}/assets/images/코드.PNG)  

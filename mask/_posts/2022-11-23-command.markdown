@@ -18,30 +18,30 @@ ex)
 ![ls]({{site.baseurl}}/assets/images/report/ls.PNG)
   
   
-**less** 지정된 파일의 타입을 확인하는 명령어다.
+**less** 지정된 파일의 타입을 확인하는 명령어다.  
 ![less]({{site.baseurl}}/assets/images/report/less1.PNG)  
 ![less]({{site.baseurl}}/assets/images/report/less2.PNG)<br/><br/><br/>
 
 ### 파일과 디렉토리 조작 명령어
-**cp** 지정된 파일의 타입을 확인하는 명령어다.
+**cp** 지정된 파일의 타입을 확인하는 명령어다.  
 ![cp]({{site.baseurl}}/assets/images/report/cp.PNG)
   
 
-**mv** 지정된 파일의 타입을 확인하는 명령어다.
+**mv** 지정된 파일의 타입을 확인하는 명령어다.  
 ![mv]({{site.baseurl}}/assets/images/report/mv.PNG)
   
   
-**mkdir** 지정된 파일의 타입을 확인하는 명령어다.
+**mkdir** 지정된 파일의 타입을 확인하는 명령어다.  
 ![mkdir]({{site.baseurl}}/assets/images/report/mkdir.PNG)
   
   
-**rm** 지정된 파일의 타입을 확인하는 명령어다.
-![rm]({{site.baseurl}}/assets/images/report/rm.PNG)
+**rm** 지정된 파일의 타입을 확인하는 명령어다.  
+![rm]({{site.baseurl}}/assets/images/report/rm.PNG)  
 ![rm]({{site.baseurl}}/assets/images/report/rm1.PNG)
   
   
-**ln** 지정된 파일의 타입을 확인하는 명령어다.
-![ln]({{site.baseurl}}/assets/images/report/ln1.PNG)
+**ln** 지정된 파일의 타입을 확인하는 명령어다.  
+![ln]({{site.baseurl}}/assets/images/report/ln1.PNG)  
 ![ln]({{site.baseurl}}/assets/images/report/ln2.PNG)<br/><br/><br/>
   
   
@@ -50,27 +50,27 @@ ex)
 ![type]({{site.baseurl}}/assets/images/report/type.PNG)
   
   
-**which** 지정된 파일의 타입을 확인하는 명령어다.
+**which** 지정된 파일의 타입을 확인하는 명령어다.  
 ![which]({{site.baseurl}}/assets/images/report/which.PNG)
   
   
 **man** 지정된 파일의 타입을 확인하는 명령어다.  
-![man]({{site.baseurl}}/assets/images/report/man.PNG)
+![man]({{site.baseurl}}/assets/images/report/man.PNG)  
 ![man]({{site.baseurl}}/assets/images/report/man2.PNG)
   
   
-**apropos** 지정된 파일의 타입을 확인하는 명령어다.
+**apropos** 지정된 파일의 타입을 확인하는 명령어다.  
 ![apropos]({{site.baseurl}}/assets/images/report/apropos.PNG)
   
   
 **info** 지정된 파일의 타입을 확인하는 명령어다.  
-![info]({{site.baseurl}}/assets/images/report/info1.PNG)
+![info]({{site.baseurl}}/assets/images/report/info1.PNG)  
 ![info]({{site.baseurl}}/assets/images/report/info2.PNG)
   
   
-**whatis** 지정된 파일의 타입을 확인하는 명령어다.
+**whatis** 지정된 파일의 타입을 확인하는 명령어다.  
 ![whatis]({{site.baseurl}}/assets/images/report/whatis.PNG)
   
   
-**alias** 지정된 파일의 타입을 확인하는 명령어다.
+**alias** 지정된 파일의 타입을 확인하는 명령어다.  
 ![alias]({{site.baseurl}}/assets/images/report/alias.PNG)

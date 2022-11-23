@@ -14,15 +14,19 @@ ex)
 ![cd]({{site.baseurl}}/assets/images/report/cd.PNG)
   
   
-**ls** 디렉토리에 있는 내용을 리스트로 출력한다.
+**ls** 디렉토리에 있는 내용을 리스트로 출력한다.  
 ![ls]({{site.baseurl}}/assets/images/report/ls.PNG)
   
   
 **less** 지정된 파일의 타입을 확인하는 명령어다.
-![less]({{site.baseurl}}/assets/images/report/less1.PNG)
+![less]({{site.baseurl}}/assets/images/report/less1.PNG)  
 ![less]({{site.baseurl}}/assets/images/report/less2.PNG)
   
   
+  <pe>
+
+  </pe>
+
 ### 파일과 디렉토리 조작 명령어
 **cp** 지정된 파일의 타입을 확인하는 명령어다.
 ![cp]({{site.baseurl}}/assets/images/report/cp.PNG)
@@ -47,7 +51,7 @@ ex)
   
   
 ### 명령어를 다루는 명령어
-**type** 지정된 파일의 타입을 확인하는 명령어다.
+**type** 지정된 파일의 타입을 확인하는 명령어다.  
 ![type]({{site.baseurl}}/assets/images/report/type.PNG)
   
   
@@ -55,7 +59,7 @@ ex)
 ![which]({{site.baseurl}}/assets/images/report/which.PNG)
   
   
-**man** 지정된 파일의 타입을 확인하는 명령어다.
+**man** 지정된 파일의 타입을 확인하는 명령어다.  
 ![man]({{site.baseurl}}/assets/images/report/man.PNG)
 ![man]({{site.baseurl}}/assets/images/report/man2.PNG)
   
@@ -64,7 +68,7 @@ ex)
 ![apropos]({{site.baseurl}}/assets/images/report/apropos.PNG)
   
   
-**info** 지정된 파일의 타입을 확인하는 명령어다.
+**info** 지정된 파일의 타입을 확인하는 명령어다.  
 ![info]({{site.baseurl}}/assets/images/report/info1.PNG)
 ![info]({{site.baseurl}}/assets/images/report/info2.PNG)
   

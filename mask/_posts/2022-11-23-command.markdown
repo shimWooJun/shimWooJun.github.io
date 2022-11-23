@@ -20,9 +20,7 @@ ex)
   
 **less** 지정된 파일의 타입을 확인하는 명령어다.
 ![less]({{site.baseurl}}/assets/images/report/less1.PNG)  
-![less]({{site.baseurl}}/assets/images/report/less2.PNG)
-  
-#  
+![less]({{site.baseurl}}/assets/images/report/less2.PNG)   
 #
 ### 파일과 디렉토리 조작 명령어
 **cp** 지정된 파일의 타입을 확인하는 명령어다.

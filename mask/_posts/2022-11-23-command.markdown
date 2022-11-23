@@ -1,0 +1,77 @@
+---
+layout: post
+title:  "리눅스 기본 명령어 매뉴얼을 작성"
+date:   2022-11-23 10:13:36 +0900
+categories: jekyll update
+---
+### 파일 시스템 탐색 기본 명령어
+**pwd** 현재 작업 디렉토리를 표시한다.  
+ex)  
+![pwd]({{site.baseurl}}/assets/images/report/pwd.PNG)
+  
+  
+**cd** 디렉토리를 이동할때 사용하는 명령어다.  
+![cd]({{site.baseurl}}/assets/images/report/cd.PNG)
+  
+  
+**ls** 디렉토리에 있는 내용을 리스트로 출력한다.
+![ls]({{site.baseurl}}/assets/images/report/ls.PNG)
+  
+  
+**less** 지정된 파일의 타입을 확인하는 명령어다.
+![less]({{site.baseurl}}/assets/images/report/less1.PNG)
+![less]({{site.baseurl}}/assets/images/report/less2.PNG)
+  
+  
+### 파일과 디렉토리 조작 명령어
+**cp** 지정된 파일의 타입을 확인하는 명령어다.
+![cp]({{site.baseurl}}/assets/images/report/cp.PNG)
+  
+
+**mv** 지정된 파일의 타입을 확인하는 명령어다.
+![mv]({{site.baseurl}}/assets/images/report/mv.PNG)
+  
+  
+**mkdir** 지정된 파일의 타입을 확인하는 명령어다.
+![mkdir]({{site.baseurl}}/assets/images/report/mkdir.PNG)
+  
+  
+**rm** 지정된 파일의 타입을 확인하는 명령어다.
+![rm]({{site.baseurl}}/assets/images/report/rm.PNG)
+![rm]({{site.baseurl}}/assets/images/report/rm1.PNG)
+  
+  
+**ln** 지정된 파일의 타입을 확인하는 명령어다.
+![ln]({{site.baseurl}}/assets/images/report/ln1.PNG)
+![ln]({{site.baseurl}}/assets/images/report/ln2.PNG)
+  
+  
+### 명령어를 다루는 명령어
+**type** 지정된 파일의 타입을 확인하는 명령어다.
+![type]({{site.baseurl}}/assets/images/report/type.PNG)
+  
+  
+**which** 지정된 파일의 타입을 확인하는 명령어다.
+![which]({{site.baseurl}}/assets/images/report/which.PNG)
+  
+  
+**man** 지정된 파일의 타입을 확인하는 명령어다.
+![man]({{site.baseurl}}/assets/images/report/man.PNG)
+![man]({{site.baseurl}}/assets/images/report/man2.PNG)
+  
+  
+**apropos** 지정된 파일의 타입을 확인하는 명령어다.
+![apropos]({{site.baseurl}}/assets/images/report/apropos.PNG)
+  
+  
+**info** 지정된 파일의 타입을 확인하는 명령어다.
+![info]({{site.baseurl}}/assets/images/report/info1.PNG)
+![info]({{site.baseurl}}/assets/images/report/info2.PNG)
+  
+  
+**whatis** 지정된 파일의 타입을 확인하는 명령어다.
+![whatis]({{site.baseurl}}/assets/images/report/whatis.PNG)
+  
+  
+**alias** 지정된 파일의 타입을 확인하는 명령어다.
+![alias]({{site.baseurl}}/assets/images/report/alias.PNG)

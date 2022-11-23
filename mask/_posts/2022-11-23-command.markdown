@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "리눅스 기본 명령어 매뉴얼을 작성"
+title:  "리눅스 기본 명령어 매뉴얼 작성"
 date:   2022-11-23 10:13:36 +0900
 categories: jekyll update
 ---
